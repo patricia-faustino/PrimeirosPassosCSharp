@@ -1,0 +1,7 @@
+C:\src\AprendendoCSharp\5-Caracteres\bin\Debug\5-Caracteres.exe.config
+C:\src\AprendendoCSharp\5-Caracteres\bin\Debug\5-Caracteres.exe
+C:\src\AprendendoCSharp\5-Caracteres\bin\Debug\5-Caracteres.pdb
+C:\src\AprendendoCSharp\5-Caracteres\obj\Debug\5-Caracteres.csprojAssemblyReference.cache
+C:\src\AprendendoCSharp\5-Caracteres\obj\Debug\5-Caracteres.csproj.CoreCompileInputs.cache
+C:\src\AprendendoCSharp\5-Caracteres\obj\Debug\5-Caracteres.exe
+C:\src\AprendendoCSharp\5-Caracteres\obj\Debug\5-Caracteres.pdb

@@ -6,7 +6,12 @@ namespace _5_CaracteresETextos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Executando o projeto 5- Caracteres e textos");
+
+            // character
+            char primeiraLetra = 'a';
+            Console.WriteLine(primeiraLetra);
+
         }
     }
 }
