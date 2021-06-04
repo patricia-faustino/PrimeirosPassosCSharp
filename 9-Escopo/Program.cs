@@ -24,9 +24,11 @@ namespace _9_Escopo
                 mensagemAdicional = "João está acompanhado";
 
             }
-            else
+            else { 
                 mensagemAdicional = "João não está acompanhado";
-            Console.WriteLine( mensagemAdicional);
+                Console.WriteLine( mensagemAdicional);
+
+            }
 
             if (acompanhado || maiorDeIdade)
             {

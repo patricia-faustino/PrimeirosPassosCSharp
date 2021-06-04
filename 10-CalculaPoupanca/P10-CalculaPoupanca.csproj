@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{620B4A19-5769-49BC-A881-AA90390EE88F}</ProjectGuid>
+    <ProjectGuid>{118B1E2A-130E-4D49-9707-F430427B08A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1_PrimeiroProjeto1</RootNamespace>
-    <AssemblyName>1-PrimeiroProjeto1</AssemblyName>
+    <RootNamespace>_10_CalculaPoupanca</RootNamespace>
+    <AssemblyName>10-CalculaPoupanca</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -1,0 +1,6 @@
+C:\src\AprendendoCSharp\MesesAnoSwitch\bin\Debug\MesesAnoSwitch.exe.config
+C:\src\AprendendoCSharp\MesesAnoSwitch\bin\Debug\MesesAnoSwitch.exe
+C:\src\AprendendoCSharp\MesesAnoSwitch\bin\Debug\MesesAnoSwitch.pdb
+C:\src\AprendendoCSharp\MesesAnoSwitch\obj\Debug\MesesAnoSwitch.csproj.CoreCompileInputs.cache
+C:\src\AprendendoCSharp\MesesAnoSwitch\obj\Debug\MesesAnoSwitch.exe
+C:\src\AprendendoCSharp\MesesAnoSwitch\obj\Debug\MesesAnoSwitch.pdb
