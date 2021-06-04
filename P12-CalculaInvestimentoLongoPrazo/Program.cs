@@ -24,6 +24,8 @@ namespace P12_CalculaInvestimentoLongoPrazo
                 }
                 fatorRendimento += 0.0010;
             }
+
+           //Console.WriteLine($"Tempo de investimento foi de {contadorAno}");
             Console.WriteLine($"Ao termino do investimento, você terá R$ {valorInvestido}");
 
             Console.ReadLine();
