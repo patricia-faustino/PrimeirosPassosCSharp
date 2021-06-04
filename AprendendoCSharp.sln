@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-PrimeiroProjeto1", "1-Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesesAnoSwitch", "MesesAnoSwitch\MesesAnoSwitch.csproj", "{D58649D5-77A9-416E-9A98-D99BF1D3E56F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupanca", "10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{118B1E2A-130E-4D49-9707-F430427B08A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118B1E2A-130E-4D49-9707-F430427B08A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118B1E2A-130E-4D49-9707-F430427B08A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118B1E2A-130E-4D49-9707-F430427B08A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118B1E2A-130E-4D49-9707-F430427B08A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
