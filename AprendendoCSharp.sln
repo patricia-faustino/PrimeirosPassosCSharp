@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{4F089C2E-7115-4BDF-9054-E9888E86076F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-PrimeiroProjeto1", "1-PrimeiroProjeto1\1-PrimeiroProjeto1.csproj", "{620B4A19-5769-49BC-A881-AA90390EE88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesesAnoSwitch", "MesesAnoSwitch\MesesAnoSwitch.csproj", "{D58649D5-77A9-416E-9A98-D99BF1D3E56F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{4F089C2E-7115-4BDF-9054-E9888E86076F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F089C2E-7115-4BDF-9054-E9888E86076F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F089C2E-7115-4BDF-9054-E9888E86076F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620B4A19-5769-49BC-A881-AA90390EE88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620B4A19-5769-49BC-A881-AA90390EE88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620B4A19-5769-49BC-A881-AA90390EE88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620B4A19-5769-49BC-A881-AA90390EE88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58649D5-77A9-416E-9A98-D99BF1D3E56F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
