@@ -20,6 +20,9 @@ namespace _10_CalculaPoupanca
 
                 valorInvestido = valorInvestido + valorInvestido * (0.36 / 100);
                 Console.WriteLine($"Após {contadorMes} mês, você terá R$  {valorInvestido}");
+
+                //contadorMes = contadorMes + 1;
+                //contadorMes += 1;
                 contadorMes++;
             }
 
